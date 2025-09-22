@@ -1,4 +1,5 @@
 # CS4372_HW_Datasets_Shyam_Rudy
+Dataset Link: [https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city](url)
 Overview: 
   This project predicts electricity consumption in Zone 1 of Tétouan city using weather and time-based features.
 Two regression models are used: SGDRegressor (from scikit-learn, with hyperparameter tuning) and OLS (from statsmodels).
