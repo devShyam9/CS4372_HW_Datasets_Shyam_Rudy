@@ -15,9 +15,9 @@ How to Run:
   9. Run the OLS model cell to compare results
 
 Files Included:
-  notebook.ipynb — complete implementation
-  Tetuan City power consumption.csv — dataset
-  Report.pdf — written report
+  1. notebook.ipynb — complete implementation
+  2. Tetuan City power consumption.csv — dataset
+  3. Report.pdf — written report
 
 Note:
 The final tuned model is trained in the last cell of the notebook.
