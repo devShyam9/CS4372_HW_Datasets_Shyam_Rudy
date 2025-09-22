@@ -15,7 +15,7 @@ How to Run:
   9. Run the OLS model cell to compare results
 
 Files Included:
-  1. notebook.ipynb — complete implementation
+  1. CS4372HW1_Shyam_Rudy.ipynb — complete code
   2. Tetuan City power consumption.csv — dataset
   3. Project 1 Report for CS 4372.501 - Rudy Rajput, Shyam Devani.pdf — written report
 
