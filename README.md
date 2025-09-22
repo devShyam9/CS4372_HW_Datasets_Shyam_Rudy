@@ -17,7 +17,7 @@ How to Run:
 Files Included:
   1. notebook.ipynb — complete implementation
   2. Tetuan City power consumption.csv — dataset
-  3. Report.pdf — written report
+  3. Project 1 Report for CS 4372.501 - Rudy Rajput, Shyam Devani.pdf — written report
 
 Note:
 The final tuned model is trained in the last cell of the notebook.
